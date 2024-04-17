@@ -1,5 +1,6 @@
 # 💫 About Me:
 - Code maestro on a perpetual quest for the perfect algorithm 🕵️‍♂️<br>- 3 years of coding escapades and counting 📅<br>- Navigating the digital labyrinth with a keyboard and insatiable curiosity 🎮<br>- From unraveling complex bugs to conjuring elegant solutions ✨<br>- Code is a manifestation of the relentless pursuit of excellence 🚀<br>- Eager to connect, collaborate, and concoct some coding magic on GitHub 🤝<br>- Let's turn those 1s and 0s into a symphony of innovation! 🎵💻
+- Portfolio  https://vaishnavimore23.github.io/Portfolio/
 
 
 ## 🌐 Socials:
